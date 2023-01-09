@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "moduleResolution": "node",
+    "strict": true,
+    "lib": ["ESNext", "DOM"],
+    "target": "es6",
+    "declaration": true,
+    "allowSyntheticDefaultImports": true,
+    "outDir": "build",
+    "resolveJsonModule": true
+  },
+  "include": ["src", "./package.json"]
+}

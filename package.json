@@ -1,0 +1,24 @@
+{
+  "name": "typegl",
+  "version": "0.1.0",
+  "main": "./src/index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathisBullinger/TypeGL.git"
+  },
+  "author": "Mathis Bullinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathisBullinger/TypeGL/issues"
+  },
+  "homepage": "https://github.com/MathisBullinger/TypeGL#readme",
+  "dependencies": {
+    "froebel": "^0.23.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
